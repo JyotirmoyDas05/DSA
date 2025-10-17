@@ -1,5 +1,5 @@
-# https-github.com-JyotirmoyDas05-DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# My DSA Collections
+A collection of LeetCode and Codeforces questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
