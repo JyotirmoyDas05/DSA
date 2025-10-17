@@ -29,4 +29,9 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0091-decode-ways) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
