@@ -19,37 +19,18 @@ public:
 };
 */
 
-class Solution
-{
+class Solution {
 public:
-    Node *cloneGraph(Node *node)
-    {
-        if (!node)
-            return nullptr;
-
-        unordered_map<int, Node* > visited;
-
-        return clone_node(node, visited);
+  // DFS
+  unordered_map<Node*, Node*> dict;
+  Node* cloneGraph(Node* node) {
+    if (!node) return nullptr;
+    if (dict.find(node) != dict.end()) return dict[node];
+    Node* node_clone = new Node(node->val);
+    dict[node] = node_clone;
+    for (Node* neighbor : node->neighbors) {
+      node_clone->neighbors.push_back(cloneGraph(neighbor));
     }
-
-    Node *clone_node(Node *node, unordered_map<int, Node *> &visited)
-    {
-        Node *new_node = new Node(node->val);
-        visited.insert({node->val, new_node});
-
-        for (Node *n : node->neighbors)
-        {
-            auto it = visited.find(n->val);
-            if (it == visited.end())
-            {
-                Node *cn = clone_node(n, visited);
-                new_node->neighbors.push_back(cn);
-            }
-            else
-            {
-                new_node->neighbors.push_back(it->second);
-            }
-        }
-        return new_node;
-    }
+    return node_clone;
+  }
 };
