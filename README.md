@@ -21,6 +21,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0091-decode-ways) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
