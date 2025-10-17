@@ -65,4 +65,8 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0133-clone-graph) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
