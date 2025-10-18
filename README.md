@@ -80,6 +80,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -109,4 +110,8 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
