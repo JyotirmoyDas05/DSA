@@ -11,26 +11,37 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        stack<int> st;
-        ListNode* curr = head;
+        ListNode* mid = NULL;
         
-        while(curr) {
-            st.push(curr->val);
-            curr = curr->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
+        mid = slow;
         
-        curr = head;
-        int count = 1;
-        int N = st.size();
+        //Reversing Part
+        ListNode* nextNode = NULL;
+        ListNode* prev = NULL;
+        while(mid) {
+            nextNode = mid->next;
+            mid->next = prev;
+            prev = mid;
+            mid = nextNode;
+        }
+        //Reversing Part
+        
+        ListNode* curr = head;
         int result = 0;
-        
-        while(count <= N/2) {
-            result = max(result, curr->val + st.top());
+        while(prev) {
+            result = max(result, curr->val + prev->val);
             curr = curr->next;
-            st.pop();
-            count++;
+            prev = prev->next;
         }
         
         return result;
+        
     }
 };
