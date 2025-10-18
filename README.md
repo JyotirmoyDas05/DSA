@@ -22,6 +22,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -84,6 +85,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0382-linked-list-random-node) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
