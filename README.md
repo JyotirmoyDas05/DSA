@@ -1,6 +1,14 @@
 # My DSA Collections
 A collection of LeetCode and Codeforces questions to ace the coding interview!
 
+# 🧑‍💻 DSA Stats
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="23" width="23"/> LeetCode
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://leetcard.jacoblin.cool/JyotimoyDas5?font=lexend&ext=heatmap" style="height: 250px;" />
+  <img src="https://leetcard.jacoblin.cool/JyotimoyDas5?theme=dark&font=lexend&ext=activity" style="height: 250px;" />
+</div>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
