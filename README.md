@@ -33,6 +33,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0328-odd-even-linked-list) |
@@ -87,4 +91,8 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0382-linked-list-random-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
