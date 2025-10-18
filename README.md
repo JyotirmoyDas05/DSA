@@ -32,6 +32,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -95,4 +97,12 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
