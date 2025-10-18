@@ -16,6 +16,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 | [0001-two-sum](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode and Codeforces questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JyotirmoyDas05/https-github.com-JyotirmoyDas05-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
